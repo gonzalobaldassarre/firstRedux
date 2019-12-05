@@ -1,0 +1,4 @@
+#Thu Dec 05 12:36:44 ART 2019
+base.0=/home/gonz4/Escritorio/firstRedux/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
